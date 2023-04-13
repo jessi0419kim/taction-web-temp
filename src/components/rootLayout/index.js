@@ -1,5 +1,5 @@
 import Footer from "./Footer"
-import NavBar from "./NavBar"
+import NavBar from "./navBar"
 
 
 

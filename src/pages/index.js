@@ -11,9 +11,9 @@ export default function Home() {
         <div className='bg-red-200 '>
           {/* 랜딩페이지 배경 */}
           <div className='py-20 justify-center'>
-              <p className='text-[128px] text-center'>DEVELOP</p>
-              <p className='text-[128px] text-center'>PREVIEW</p>
-              <p className='text-[128px] text-center'>SHIP</p>
+              <p className='text-[128px] text-center overflow-hidden'>DEVELOP</p>
+              <p className='text-[128px] text-center overflow-hidden'>PREVIEW</p>
+              <p className='text-[128px] text-center overflow-hidden'>SHIP</p>
           </div>
         </div>
       </div>
