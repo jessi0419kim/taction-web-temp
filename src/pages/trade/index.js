@@ -3,6 +3,6 @@
 export default function Trade() {
 	
 	return(
-		<div className="min-h-screen">Trade</div>
+		<div className="mx-auto">Trade</div>
 	)
 }

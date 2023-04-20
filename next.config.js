@@ -5,6 +5,9 @@ const nextConfig = {
     locales: ['en', 'ko'],
     defaultLocale: 'en',
   },
+  images: {
+    domains: ['cdn.dribbble.com'],
+  },
 }
 
 module.exports = nextConfig

@@ -1,0 +1,10 @@
+{
+  "Nav": {
+    "logo": "logo",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+    "Home": {
+      "title": "home"
+    }
+  }
